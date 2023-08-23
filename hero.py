@@ -1,5 +1,3 @@
-import time
-
 Name = ""
 print("Bem vind, aventureiro. Essa é a sua jornada, a sua história.")
 while True:
